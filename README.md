@@ -14,17 +14,18 @@ This repository documents the tasks completed during my internship. The tasks in
 1. **Task 1: Portfolio Website**
    - Created a portfolio website to showcase skills and projects.
    - Implemented responsive design using HTML, CSS, and JavaScript.
-   - Folder: `codeway/task1-portfolio-website`
+   - Folder: `Codeway_TaskNo.3/portfolio/task1.html`
 
 2. **Task 2: Calculator**
    - Developed a simple calculator using HTML, CSS, and JavaScript.
    - Included basic arithmetic operations and percentage functionality.
-   - Folder: `codeway/task2-calculator`
+   - Folder: `Codeway_TaskNo.3/calculator/task2.html`
 
 3. **Task 3: Landing Page**
    - Designed a landing page with a focus on aesthetics and user engagement.
    - Utilized HTML and CSS to create an appealing layout.
-   - Folder: `codeway/task3-landing-page`
+   - Folder: `Codeway_TaskNo.3/landing-page/task3.html`
+   - Folder: `Codeway_TaskNo.3/landing-page/style3.css`
 
 ## Folder Structure
 The project follows a structured folder organization:
