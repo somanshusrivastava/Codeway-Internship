@@ -1,4 +1,4 @@
-# Internship Portfolio Project
+#  Codeway Internship  Project
 
 ## Table of Contents
 - [Overview](#overview)
